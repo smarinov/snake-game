@@ -8,3 +8,5 @@
 # Tips
 - Be careful not to bump into your own body or tail
 
+# Screenshot
+![Screenshot](screenshot.png)
