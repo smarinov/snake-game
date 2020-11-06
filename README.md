@@ -8,5 +8,3 @@
 # Tips
 - Be careful not to bump into your own body or tail
 
-# Screenshot
-!(C:\Users\smari\PycharmProjects\snake-game\screenshot.png)
