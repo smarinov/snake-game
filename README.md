@@ -9,4 +9,4 @@
 - Be careful not to bump into your own body or tail
 
 # Screenshot
-![image](C:\Users\smari\PycharmProjects\snake-game\screenshot.png)
+!(C:\Users\smari\PycharmProjects\snake-game\screenshot.png)
